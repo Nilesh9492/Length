@@ -19,7 +19,7 @@ namespace Geometry
             double pow_x = Math.Pow(x,2);
             double pow_y = Math.Pow(y, 2);
             double z = pow_x + pow_y;
-            Console.WriteLine("Length of Line is:" + Math.Sqrt(z));
+            Console.WriteLine("Length of Line AB is:" + Math.Sqrt(z));
 
 
 
